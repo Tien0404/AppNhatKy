@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nhật Ký Của Tôi</string>
+    <string name="activity_create_note_input_note_title_hint">Tiêu đề nhật ký</string>
+    <string name="activity_create_note_input_note_subtitle_hint">Phụ đề</string>
+    <string name="activity_create_note_input_note_text_hint">Nhập ghi chú vào đây..</string>
+    <string name="activity_main_text_my_note_text">Nhật Ký Của Tôi</string>
+    <string name="activity_main_input_search_hint">Tìm kiếm</string>
+    <string name="layout_add_url_text_add_url_title_text">thêm URL</string>
+    <string name="layout_add_url_input_url_hint">Tạo URL</string>
+    <string name="layout_add_url_text_add_text">ADD</string>
+    <string name="layout_add_url_text_cancel_text">CANCEL</string>
+    <string name="layout_delete_note_text_delete_note_title_text">Xóa nhật ký</string>
+    <string name="layout_delete_note_text_delete_note_message_text">Bạn có chắc chắn muốn xóa nhật ký này?</string>
+    <string name="layout_delete_note_text_delete_note_text">DELETE NOTE</string>
+    <string name="layout_delete_note_text_cancel_text">CANCEL</string>
+    <string name="layout_miscellaneous_text_miscellaneous_text">Điều khiển khác</string>
+    <string name="layout_miscellaneous_text_pick_color_text">Chọn Màu</string>
+    <string name="layout_miscellaneous_text_add_image_text">Thêm Ảnh</string>
+    <string name="layout_miscellaneous_text_add_url_text">Thêm URL</string>
+    <string name="layout_miscellaneous_text_delete_note_text">Xóa Nhật ký</string>
+</resources>
